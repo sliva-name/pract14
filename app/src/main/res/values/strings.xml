@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practice14</string>
+    <string name="email">Введите email</string>
+    <string name="name">Введите имя</string>
+    <string name="age">Введите возраст</string>
+    <string name="activity2">2 активити</string>
+    <string name="activity1">1 активити</string>
+    <string name="info1">Контактные данные:</string>
+    <string name="info2">Изменить:</string>
+</resources>
